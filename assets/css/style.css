@@ -391,6 +391,7 @@ button {
   border-radius: 0.5rem;
   justify-self: center;
   align-self: center;
+  height: auto;
 }
 
 .about_description {
